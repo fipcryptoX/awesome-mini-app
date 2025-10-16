@@ -59,6 +59,28 @@ These guides helped me to code out my app:
 
 ---
 
+## Vibe coding platforms
+
+Referencing from @clemens_’ post:
+
+Easy
+
+- [Ohara](https://ohara.ai/)
+- [Rosebud AI (for games)](https://rosebud.ai/)
+
+Medium
+
+- [Bolt](https://bolt.new/)
+- [Replit](https://replit.com/)
+- [Lovable](https://lovable.dev/)
+
+Hard
+
+- [Cursor](https://cursor.com/)
+- [Vercel](https://vercel.com/)
+
+---
+
 ## Tools
 
 - [Mini App Asset Generator](https://x.com/aflock/status/1977745182729683147?s=46) by @aflock
