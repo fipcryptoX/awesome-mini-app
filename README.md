@@ -6,6 +6,7 @@ A curated list of resources to build Mini Apps on the Base App and Farcaster
 ## My guides
 
 - [Full guide and workflow I used](https://www.notion.so/Mini-App-Vibe-Coding-Guide-by-FIP-Crypto-28bc7c36702f80109f5ef517208506b0?pvs=21)
+- [Prompts I used](https://github.com/fipcryptoX/awesome-mini-app/blob/main/prompts.md)
 
 ---
 
