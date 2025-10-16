@@ -66,7 +66,8 @@ Referencing from @clemens_’ post:
 Easy
 
 - [Ohara](https://ohara.ai/)
-- [Rosebud AI (for games)](https://rosebud.ai/)
+- [OpenxAI](https://x.com/OpenxAINetwork/status/1976681492752269480)
+- [Rosebud AI](https://rosebud.ai/) (for games)
 
 Medium
 
