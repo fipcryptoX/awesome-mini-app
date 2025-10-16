@@ -3,6 +3,12 @@ A curated list of resources to build Mini Apps on the Base App and Farcaster
 
 ---
 
+## My guides
+
+- [Full guide and workflow I used](https://www.notion.so/Mini-App-Vibe-Coding-Guide-by-FIP-Crypto-28bc7c36702f80109f5ef517208506b0?pvs=21)
+
+---
+
 ## My coding stack
 
 The full list of tools I used to code my app:
@@ -20,7 +26,7 @@ The full list of tools I used to code my app:
 ## Development Portals
 
 - [Farcaster Developer Tools](https://farcaster.xyz/~/developers)
-- [Base Dev (requires Coinbase Smart Wallet sign in)](base.dev)
+- [Base Dev](base.dev) (requires Coinbase Smart Wallet sign in)
 
 ---
 
